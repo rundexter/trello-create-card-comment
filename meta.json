@@ -22,6 +22,12 @@
             "title":"Success"
         }
     ],
+    "providers": [{
+        "name": "trello",
+        "scopes": [
+            "Write"
+        ]
+    }],
     "icon": "trello",
     "title": "Trello Add Comment on Card" /* Required.A display name for the module */
 }
